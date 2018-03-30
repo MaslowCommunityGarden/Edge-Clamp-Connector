@@ -7,3 +7,12 @@ This edge clamp connector was inspired by the commercial connectors made by Ply 
 I created this as proof of concept and it certainly needed a bit more refinement, and that's where you come in! Please use, make, modify and submit your changes and feedback for all to benefit from!
 
 This connector was designed for creating a 90-degree joint between 1/2" (12.7 mm) to 3/4" (19 mm) stock (plywood, OSB, lumber, etc.). I used a 1-1/4" #8-32 machine screw and nut (it's what I had on hand); you will need a longer nut for 3/4" stock. 
+
+**Side view:**
+![alt text](https://github.com/MaslowCommunityGarden/Edge-Clamp-Connector/blob/master/pictures/IMG_2682.jpg)
+
+**Top view:**
+![alt text](https://github.com/MaslowCommunityGarden/Edge-Clamp-Connector/blob/master/pictures/IMG_2683.jpg)
+
+**Bottom view**
+![alt text}(https://github.com/MaslowCommunityGarden/Edge-Clamp-Connector/blob/master/pictures/IMG_2685.jpg)
