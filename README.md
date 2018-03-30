@@ -15,4 +15,4 @@ This connector was designed for creating a 90-degree joint between 1/2" (12.7 mm
 ![alt text](https://github.com/MaslowCommunityGarden/Edge-Clamp-Connector/blob/master/pictures/IMG_2683.jpg)
 
 **Bottom view**
-![alt text}(https://github.com/MaslowCommunityGarden/Edge-Clamp-Connector/blob/master/pictures/IMG_2685.jpg)
+![alt text](https://github.com/MaslowCommunityGarden/Edge-Clamp-Connector/blob/master/pictures/IMG_2685.jpg)
