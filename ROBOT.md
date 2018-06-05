@@ -1,3 +1,5 @@
-ModerationLevel = communityManaged
-
- Facilitator: theRatchet
+{
+    "ModerationLevel": "communityManaged",
+    "Facilitator": "theRatchet",
+    "Category": "other" 
+}
